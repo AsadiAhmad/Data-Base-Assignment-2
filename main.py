@@ -24,4 +24,3 @@ if __name__ == '__main__':
     user_list = get_user_list(user_count)
     search = input("Enter name to search: ")
     search_username(search)
-
