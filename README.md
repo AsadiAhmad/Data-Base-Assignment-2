@@ -2,6 +2,6 @@
 
 some
 
-<img src="/pictures/1.PNG">
+<img src="/pictures/1.png">
 
 <img src="pictures/2.PNG">
